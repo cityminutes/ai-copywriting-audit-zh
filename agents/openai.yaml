@@ -1,4 +1,8 @@
 interface:
   display_name: "5力文案健檢"
   short_description: "以五項專業評分指標診斷商業文案並提出清楚具體改善建議"
+  default_prompt: "使用 $ai-copywriting-audit-zh 評估這篇文案並提出具體修改方向。"
+interface:
+  display_name: "5力文案健檢"
+  short_description: "以五項專業評分指標診斷商業文案並提出清楚具體改善建議"
   default_prompt: "使用 $five-power-copy-audit-zh 評估這篇文案並提出具體修改方向。"
